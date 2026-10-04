@@ -1,1 +1,23 @@
-# Deciphering_NECyto2026
+## Abstract
+
+**Deciphering the black box: leveraging shared-resource laboratory resources to tackle spectral flow cytometry's quirks**
+
+David Rach1
+
+Flow Cytometry Shared Resource, University of Maryland Greenebaum Comprehensive Cancer Center, Baltimore, USA  
+
+Spectral flow cytometry (SFC), with its fast acquisition speed and capacity to resolve remarkably similar fluorophores,  occupies an unique niche compared to conventional flow and mass cytometry. This partially explains the widespread and rapid adoption of the technology, alongside the success of community-led efforts to widely share best practices as far as experiment preparation, acquisition, and unmixing. However, whether building a successful panel, or deciphering the cause of an unmixing error, working with spectral flow cytometry data continues to be a combination of art, science, and superstition.
+
+Shared-resource laboratories play important roles in the ecosystem, allowing access to cutting-edge instrumentation to a wider user base. Consequently, every day, data is acquired for numerous panels intended for different use cases, targeting various cell types. Beyond the primary research goal, the already acquired data could potentially answer questions about both the instrument stability, and the broader technology itself. However, leveraging these datasets remains out-of-reach for most facilities, due to both a lack of staff time and the software tools to facilitate analysis of wider data trends.  
+
+In this talk, we share our on-going work leveraging routinely acquired start-up and quality control samples (Contrad, Water, QC/CST, etc.) as well as unmixing controls (both single-color and unstained) to track instument stability on our individual instruments. We additionally showcase examples where observed variation likely resulted in specific unmixing errors for user-acquired experiments on those same days. We discuss how to build and implement similar systems for your own facility, enabling you to speed up the deciphering of unexplained unmixing errors.  
+
+[Code](https://github.com/DavidRach/Deciphering_NECyto2026) 
+Talk will be on **November 5, 2026**
+
+## License
+
+In our commitment to open-science and open-source, all teaching materials are freely offered under a [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/deed.en) license, while all code examples are offered under the [AGPL3-0](https://www.gnu.org/licenses/agpl-3.0.en.html) copyleft license. 
+
+<br>
+<br>
