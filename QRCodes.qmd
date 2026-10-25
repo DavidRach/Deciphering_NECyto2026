@@ -27,13 +27,12 @@ generate_svg(code, filename = StoreHere)
 
 # Slides
 
-[Link](https://davidrach.github.io/NoCellLeftBehind_MetroFlow2026/Rach_NoCellsLeftBehind_MetroFlow2026.pdf)
+[Link](https://davidrach.github.io/Deciphering_NECyto2026/Rach_Deciphering_NECyto2026.pdf)
 
 ```{r}
-QR_Helper(url="https://davidrach.github.io/NoCellLeftBehind_MetroFlow2026/Rach_NoCellsLeftBehind_MetroFlow2026.pdf",
+QR_Helper(url="https://davidrach.github.io/Deciphering_NECyto2026/Rach_Deciphering_NECyto2026.pdf",
     output="outputs", 
     filename="Slides")
 ```
 
 
-https://davidrach.github.io/NoCellLeftBehind_MetroFlow2026/Rach_NoCellsLeftBehind_MetroFlow2026.pdf
