@@ -25,6 +25,7 @@ Shared-resource laboratories play important roles in the ecosystem, allowing acc
 In this talk, we share our on-going work leveraging routinely acquired start-up and quality control samples (Contrad, Water, QC/CST, etc.) as well as unmixing controls (both single-color and unstained) to track instument stability on our individual instruments. We additionally showcase examples where observed variation likely resulted in specific unmixing errors for user-acquired experiments on those same days. We discuss how to build and implement similar systems for your own facility, enabling you to speed up the deciphering of unexplained unmixing errors.  
 
 [Code](https://github.com/DavidRach/Deciphering_NECyto2026) 
+[Slides](/Rach_Deciphering_NECyto2026.pdf)
 Talk will be on **November 5, 2026**
 
 ## License
